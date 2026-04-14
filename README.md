@@ -10,7 +10,8 @@ Insights were used to identify the most profitable product types and regions, an
  ## Tools Used:
  SQL, Tableau 
 
- ![Dashboard](<img width="1799" height="2399" alt="Dashboard 1" src="https://github.com/user-attachments/assets/5b379ac0-e080-4bfd-8525-58db1d741c2f" />)
+<img width="1799" height="2399" alt="Dashboard 1" src="https://github.com/user-attachments/assets/63ed6794-322b-465c-8494-9f2b0b34603b" />
+
 
  ## Highlights:
 - Trek is the highest revenue-generating brand: $5.1M.
